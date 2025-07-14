@@ -1,0 +1,39 @@
+{
+    "classes": [
+        {
+            "className": "SodukoGenerator",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "holes",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "generatePuzzle",
+                    "returnType": "QList<int>"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "isCloned": true,
+                    "name": "generatePuzzle",
+                    "returnType": "QList<int>"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "SodukoGenerator",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SodukoGenerator.h",
+    "outputRevision": 69
+}

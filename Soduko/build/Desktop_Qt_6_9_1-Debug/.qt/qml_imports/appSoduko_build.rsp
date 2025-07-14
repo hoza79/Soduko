@@ -1,0 +1,15 @@
+-rootPath
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko
+-cmake-output
+-output-file
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/.qt/qml_imports/appSoduko_build.cmake
+-importPath
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/Soduko
+-importPath
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug
+-importPath
+/home/hosam/Qt/6.9.1/gcc_64/qml
+-qrcFiles
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_Soduko.qrc
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appSoduko_raw_qml_0.qrc
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appSoduko_raw_qml_0_extra_qmldirs.qrc

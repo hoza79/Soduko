@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Soduko/">
+    <file alias="Main.qml">/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/Main.qml</file>
+    <file alias="ui/board/Board.qml">/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/ui/board/Board.qml</file>
+  </qresource>
+</RCC>
+

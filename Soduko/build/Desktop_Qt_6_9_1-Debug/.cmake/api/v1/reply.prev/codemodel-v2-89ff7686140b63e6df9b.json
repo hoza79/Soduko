@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2a7e9b338473e8fe2079.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Soduko",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-47bc025efc8e213dec6d.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-9797057a69e0ba520dc4.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-301d99d214b794e2877b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-5f319e7270ba86508d5f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-e84a48c259a4d136cb07.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko-Debug-07243bdad4619a8a7ec4.json",
+					"name" : "appSoduko",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_autogen-Debug-2edd25e3c688cac8a67f.json",
+					"name" : "appSoduko_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_autogen_timestamp_deps-Debug-fb34fe25d891350e9109.json",
+					"name" : "appSoduko_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_copy_qml-Debug-94ccf6d366b91f39b7a9.json",
+					"name" : "appSoduko_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_copy_res-Debug-5aaff77a824eeccb062f.json",
+					"name" : "appSoduko_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_qmlimportscan-Debug-ffca8fcfea1c4c90f54a.json",
+					"name" : "appSoduko_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_qmllint-Debug-a13a41f4618b6071042d.json",
+					"name" : "appSoduko_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_qmllint_json-Debug-e5904998f67bbf4e5d10.json",
+					"name" : "appSoduko_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_qmllint_module-Debug-2ef69cfb84fdfdb3515c.json",
+					"name" : "appSoduko_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSoduko_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSoduko_qmltyperegistration-Debug-721e55ba3179b5c03160.json",
+					"name" : "appSoduko_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSoduko_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSoduko_aotstats_target-Debug-3fe2958ae2c5a302cbba.json",
+					"name" : "module_appSoduko_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug",
+		"source" : "/home/hosam/Desktop/programming/c++/qt/soduko/Soduko"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

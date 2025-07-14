@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "SudokuSolver",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "board",
+                            "type": "QList<int>"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "solve",
+                    "returnType": "QList<int>"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "SudokuSolver",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SudokuSolver.h",
+    "outputRevision": 69
+}

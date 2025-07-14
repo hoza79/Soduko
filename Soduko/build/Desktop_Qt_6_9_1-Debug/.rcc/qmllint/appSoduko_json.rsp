@@ -1,0 +1,15 @@
+--bare
+-I
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug
+-I
+/home/hosam/Qt/6.9.1/gcc_64/qml
+--resource
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_Soduko.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appSoduko_raw_qml_0.qrc
+--resource
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appSoduko_raw_qml_0_extra_qmldirs.qrc
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/Main.qml
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/ui/board/Board.qml
+--json
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/appSoduko_qmllint.json

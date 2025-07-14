@@ -1,0 +1,2 @@
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/appSoduko_autogen/include/../7CL2LH2DRO/moc_SodukoGenerator.cpp.json
+/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/build/Desktop_Qt_6_9_1-Debug/appSoduko_autogen/include/../7CL2LH2DRO/moc_SudokuSolver.cpp.json

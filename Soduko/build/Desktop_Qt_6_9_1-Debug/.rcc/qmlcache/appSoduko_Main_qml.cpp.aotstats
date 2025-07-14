@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 8,
+                        "durationMicroseconds": 795,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 8,
+                        "durationMicroseconds": 569,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 11
+                    }
+                ],
+                "filePath": "/home/hosam/Desktop/programming/c++/qt/soduko/Soduko/Main.qml"
+            }
+        ],
+        "moduleId": "Soduko(appSoduko)"
+    }
+]

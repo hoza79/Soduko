@@ -1,0 +1,6 @@
+module Soduko
+typeinfo appSoduko.qmltypes
+prefer :/qt/qml/Soduko/
+Main 1.0 Main.qml
+Board 1.0 ui/board/Board.qml
+
